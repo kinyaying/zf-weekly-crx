@@ -284,7 +284,6 @@ export default {
         // });
       } else if (activeTab.name === 'tab-docs') {
         alert('替换成自己的文档')
-        // 此处以政采云公司首页为例，可以替换为自己公司的文档站点
         // window.open(links.frontDocument);
       }
     },
